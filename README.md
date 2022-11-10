@@ -45,7 +45,9 @@ JavaScript </p>
 
 ![FEEDBACKS](FEEDBACKS.png)
 
-![POKEDEX](POKEDEX.png)
+<p> Pokedex - Simulation of pokedex, using REACT.JSX and CSS3</p>
+
+![https://github.com/odedAtias/Pokemon-Pokedex](POKEDEX.png)
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" height="45"/></h2>
 
