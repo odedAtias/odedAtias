@@ -28,11 +28,7 @@ Technologies and tools 🛠️
 <img src="https://user-images.githubusercontent.com/59575502/127428633-1f18254b-97f9-4358-aec4-3143874035f8.png" width="85" /> 
  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="115" height ="-50"/> 
 <img src="https://user-images.githubusercontent.com/59575502/127428630-7563c6a0-4ce4-4b21-9473-b7c2b149f3c4.png" width="85" /> 
-<<<<<<< HEAD
 <img src="https://user-images.githubusercontent.com/59575502/127427975-18b027b4-dc7f-4616-b9b4-42019b54e8db.png" width="85" />
-=======
-<img src="https://user-images.githubusercontent.com/59575502/127427975-18b027b4-dc7f-4616-b9b4-42019b54e8db.png" width="85" /> 
->>>>>>> e23896bc28531113d0c47bb6cac7095784c30ba6
 
 </p>
 
@@ -54,10 +50,10 @@ called HBT, using HTML and CSS </p>
 
 ![POKEDEX](POKEDEX.png)
 
-<<<<<<< HEAD
-=======
+# <<<<<<< HEAD
 
->>>>>>> e23896bc28531113d0c47bb6cac7095784c30ba6
+> > > > > > > e23896bc28531113d0c47bb6cac7095784c30ba6
+
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" height="45"/></h2>
 
 <p>
