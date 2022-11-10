@@ -35,19 +35,20 @@ Technologies and tools 🛠️
 <h2>
 Examples of projects 👨‍💻
 </h2>
+
+<p> feedback-UI - Simulation for the feedback page of any website/system/application which provides a service, using REACT.JSX and CSS3</p>
+
+![FEEDBACKS](FEEDBACKS.png)
+
 <p> MVC movie catalog - Development of an online movie catalog
 from TMDB API, using HTML, CSS and
 JavaScript </p>
 
 ![MVC](MVC.png)
 
-<p> feedback-UI - Simulation for the feedback page of any website/system/application which provides a service, using REACT.JSX and CSS3</p>
-
-![FEEDBACKS](FEEDBACKS.png)
-
 <p> Pokedex - Simulation of pokedex, using REACT.JSX and CSS3</p>
 
-![https://github.com/odedAtias/Pokemon-Pokedex](POKEDEX.png)
+![POKEDEX](POKEDEX.png)
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" height="45"/></h2>
 
