@@ -41,18 +41,11 @@ JavaScript </p>
 
 ![MVC](MVC.png)
 
-<p> HBT hotel - Development of a virtual hotel website
-called HBT, using HTML and CSS </p>
+<p> feedback-UI - Simulation for the feedback page of any website/system/application which provides a service, using REACT.JSX and CSS3</p>
 
 ![FEEDBACKS](FEEDBACKS.png)
 
-<p> feedback-UI - Simulation for the feedback page of any website/system/application which provides a service, using REACT.JSX and CSS3</p>
-
 ![POKEDEX](POKEDEX.png)
-
-# <<<<<<< HEAD
-
-> > > > > > > e23896bc28531113d0c47bb6cac7095784c30ba6
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" height="45"/></h2>
 
