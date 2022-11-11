@@ -28,8 +28,10 @@ Technologies and tools 🛠️
 <img src="https://user-images.githubusercontent.com/59575502/127428633-1f18254b-97f9-4358-aec4-3143874035f8.png" width="85" /> 
  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="115" height ="-50"/> 
 <img src="https://user-images.githubusercontent.com/59575502/127428630-7563c6a0-4ce4-4b21-9473-b7c2b149f3c4.png" width="85" /> 
-<img src="https://user-images.githubusercontent.com/59575502/127427975-18b027b4-dc7f-4616-b9b4-42019b54e8db.png" width="85" /><img src="[https://static.wikia.nocookie.net/logopedia/images/9/9a/W3Schools_2020_2.svg/revision/latest?cb=20210514020422](https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/MongoDB_Logo.svg/1920px-MongoDB_Logo.svg.png)" width="30px"/>
+<img src="https://user-images.githubusercontent.com/59575502/127427975-18b027b4-dc7f-4616-b9b4-42019b54e8db.png" width="85" />
+<img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="90"/>
 
+ 
 
 
 </p>
