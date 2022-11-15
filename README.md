@@ -40,6 +40,10 @@ Technologies and tools 🛠️
 Examples of projects 👨‍💻
 </h2>
 
+<p> Github Finder - A project to create a search engine Github users, using REACT.JSX and Tailwind.css</p>
+
+![GithubFinder](GithubFinder.png)
+
 <p> feedback-UI - Simulation for the feedback page of any website/system/application which provides a service, using REACT.JSX and CSS3</p>
 
 ![FEEDBACKS](FEEDBACKS.png)
@@ -49,10 +53,6 @@ from TMDB API, using HTML, CSS and
 JavaScript </p>
 
 ![MVC](MVC.png)
-
-<p> Github Finder - A project to create a search engine Github users, using REACT.JSX and TailwindCss</p>
-
-![GithubFinder](GithubFinder.png)
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" height="45"/></h2>
 
