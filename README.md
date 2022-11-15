@@ -28,7 +28,9 @@ Technologies and tools 🛠️
 <img src="https://user-images.githubusercontent.com/59575502/127428633-1f18254b-97f9-4358-aec4-3143874035f8.png" width="85" /> 
  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="115" height ="-50"/> 
 <img src="https://user-images.githubusercontent.com/59575502/127428630-7563c6a0-4ce4-4b21-9473-b7c2b149f3c4.png" width="85" /> 
-<img src="https://user-images.githubusercontent.com/59575502/127427975-18b027b4-dc7f-4616-b9b4-42019b54e8db.png" width="85" />
+<img src="https://www.tutorialsteacher.com/Content/images/home/mongodb.svg" width="85" />
+
+
 
 </p>
 
@@ -46,9 +48,9 @@ JavaScript </p>
 
 ![MVC](MVC.png)
 
-<p> Pokedex - Simulation of pokedex, using REACT.JSX and CSS3</p>
+<p> Github Finder - A project to create a search engine Github users, using REACT.JSX and TailwindCss</p>
 
-![POKEDEX](POKEDEX.png)
+![GithubFinder](POKEDEX.png)
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" height="45"/></h2>
 
