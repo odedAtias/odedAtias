@@ -42,7 +42,7 @@ Examples of projects 👨‍💻
 
 <p> feedback-UI - Simulation for the feedback page of any website/system/application which provides a service, using REACT.JSX and CSS3</p>
 
-![FEEDBACKS](FEEDBACKS.png)
+![GithubFinder.png](GithubFinder.png)
 
 <p> MVC movie catalog - Development of an online movie catalog
 from TMDB API, using HTML, CSS and
