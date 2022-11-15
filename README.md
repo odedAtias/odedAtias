@@ -42,7 +42,7 @@ Examples of projects 👨‍💻
 
 <p> feedback-UI - Simulation for the feedback page of any website/system/application which provides a service, using REACT.JSX and CSS3</p>
 
-![GithubFinder.png](GithubFinder.png)
+![FEEDBACKS](FEEDBACKS.png)
 
 <p> MVC movie catalog - Development of an online movie catalog
 from TMDB API, using HTML, CSS and
@@ -52,7 +52,7 @@ JavaScript </p>
 
 <p> Github Finder - A project to create a search engine Github users, using REACT.JSX and TailwindCss</p>
 
-![GithubFinder](POKEDEX.png)
+![GithubFinder](GithubFinder.png)
 
 <h2> Connect with me <img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="80" height="45"/></h2>
 
