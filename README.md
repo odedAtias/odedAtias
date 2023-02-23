@@ -30,8 +30,8 @@ Technologies and tools 🛠️
 <img src="https://user-images.githubusercontent.com/59575502/127428630-7563c6a0-4ce4-4b21-9473-b7c2b149f3c4.png" width="85" /> 
 <img src="https://user-images.githubusercontent.com/59575502/127427975-18b027b4-dc7f-4616-b9b4-42019b54e8db.png" width="85" />
 <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="90"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="120"/>
-
+<img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" width="120"/>
+<img src="https://miro.medium.com/max/300/1*R4c8lHBHuH5qyqOtZb3h-w.png" width="90"/>
  
 
 
