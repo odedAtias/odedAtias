@@ -6,11 +6,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I'm Oded from Israel, a 4th year software engineering student <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-with knowledge of software design,
-development, and testing.
-enthusiastic about developing practical
-and time-saving software solutions.
+I am a Software Engineer with a passion for frontend development, specializing in creating precise and innovative technological solutions. I value clean code, collaboration, and bringing a positive atmosphere to the team. I have been coding for nearly 6 years, initially developing features and solving bugs, and later taking on management responsibilities. I'm always looking for the next challenge to continue growing and advancing professionally.
 In my free time I solve problems on LeetCode <img src="https://cdn.iconscout.com/icon/free/png-256/leetcode-3629476-3031539.png" width="25px"/> and read tech articles from geeksforgeeks <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="30px"/> and W3schools <img src="https://static.wikia.nocookie.net/logopedia/images/9/9a/W3Schools_2020_2.svg/revision/latest?cb=20210514020422" width="30px"/>.
 
 <h2>
