@@ -17,9 +17,10 @@ Technologies and tools 🛠️
   <img src="https://user-images.githubusercontent.com/59575502/127426751-01af6b81-3523-47d2-95b8-6166f9c3c3aa.png" width="80">
   <img src="https://user-images.githubusercontent.com/59575502/127426757-5335f7bc-c63a-4e58-9e96-f43982df842d.png" width="80"/>
   <img src="https://user-images.githubusercontent.com/59575502/127428627-06e9cfab-80ba-45a2-8891-96121397ec9c.png" width="80" /> 
- 
-<img src="https://camo.githubusercontent.com/c61346fb6ea6a25b03315c7a3655fdf3f0368efed773cc2cf393b3ff26a4a8d2/68747470733a2f2f63646e2e776f726c64766563746f726c6f676f2e636f6d2f6c6f676f732f68746d6c2d312e737667" width="70">
-<img src="https://user-images.githubusercontent.com/59575502/127426315-abe01b56-a385-455d-9caf-40bc7022a3d3.png" width="100" /> 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" width="80" />
+  <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*tOI6UC5EaS2fPItCesI-AQ.png" width="100" height ="90" /> 
+  <img src="https://raw.githubusercontent.com/chakra-ui/chakra-ui/main/media/logo-colored@2x.png?raw=true" width="170" height="70" />
+<img src="https://user-images.githubusercontent.com/59575502/127426315-abe01b56-a385-455d-9caf-40bc7022a3d3.png" width="80" /> 
 <img src="https://user-images.githubusercontent.com/59575502/127426312-4a7a6d79-4b40-4b06-8c94-824ea3e8410e.png" width="80" /> 
 <img src="https://user-images.githubusercontent.com/59575502/127428633-1f18254b-97f9-4358-aec4-3143874035f8.png" width="85" /> 
  <img src="https://cdn.worldvectorlogo.com/logos/nodejs-1.svg" width="115" height ="-50"/> 
